@@ -1,0 +1,28 @@
+name: Ze Monkiz Tribe Production
+favicon: null
+layout_spectrum: 0.20492641045711935
+typography_spectrum: 0.7998837896157056
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.2823130583856255
+  lightness: 0.7431239122524858
+  saturation: 0.07915255823172629
+  rhythmicContrast: 0.4665326904505491
+purpose: []
